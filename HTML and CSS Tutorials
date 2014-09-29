@@ -1,0 +1,43 @@
+<!DOCUTYPE html>
+<html>
+    <head>
+        <title>Internal CSS</title>
+        <style type="text/css">
+            body { 
+                font-family: Georgia;
+                font-size: 12px;
+                background-color: #85bee1; }
+            h {
+                font-color: #7a4a14; }
+            div {
+                border: 1px solid #fdfdfd;
+                padding: 15px;
+                float: left;
+                border-radius: 10px;
+                -moz-border-radius: 10px;
+                -webkit-border-radius: 10px;
+                background color: #fdfdfd; }
+            p {
+                width: 300px;
+                float: left;
+                font-color: #7a4a14; }
+        </style>
+    </head>
+    <body>
+        <h2>Week 6</h2>
+        <div>
+            <p>Below you will find links to all required exercises and achievements to fulfill the homework requirements of Week 6.<p>
+        </div>
+        <div>
+            <table style="border 4px #7a4a14 solid>
+            <thead>
+                <th>Links</th>
+            </thead>
+                <tr>
+                    <td><a href="http://www.codecademy.com/users/TimAllen90/achievements"><img src="http://edukart.com/open/wp-content/uploads/2014/08/codeaccademy-html.jpg">Achievement Badges</a></td>
+                    <td><a href="http://www.codecademy.com/TimAllen90#completed"><img src="http://edukart.com/open/wp-content/uploads/2014/08/codeaccademy-html.jpg">Completion Status</a></td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
